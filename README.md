@@ -7,8 +7,7 @@
 
 ## All required files are available just clone repo or download zip
 
-### Live website can be viewed here
-https://peter-kimanzi.github.io/Bicycle-ecommerce-website/
+
 
 
 # Preview
